@@ -1,0 +1,33 @@
+h1 {
+    color: antiquewhite;
+    background-color: darkolivegreen;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+img {
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: auto%;
+}
+
+h2 {
+    color:antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.one, .three {
+    background-color: rgb(169, 115, 219);
+}
+
+.two {
+    background-color: darkolivegreen;
+}
+
+li, p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
