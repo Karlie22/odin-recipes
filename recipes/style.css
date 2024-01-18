@@ -1,11 +1,13 @@
 body{
     width: 1000px;
     margin: 0 auto;
+    border: solid rgb(169, 115, 219);
+    padding: 20px;
 
 }
 h1 {
     color: antiquewhite;
-    background-color: darkolivegreen;
+    background-color: rgb(147, 180, 89);livegreen;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
@@ -35,7 +37,7 @@ h2 {
 }
 
 .two {
-    background-color: darkolivegreen;
+    background-color: rgb(147, 180, 89);
 }
 
 li, p {

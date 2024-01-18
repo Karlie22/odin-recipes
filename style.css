@@ -1,6 +1,8 @@
 body {
     max-width: 600px;
     margin: 0 auto;
+    border: solid rgb(155, 114, 194);
+    padding: 50px;
 }
 
 h1 {
