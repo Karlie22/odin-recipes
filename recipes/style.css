@@ -1,9 +1,18 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+
+}
 h1 {
     color: antiquewhite;
     background-color: darkolivegreen;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
+    margin-bottom: 50px;
+    padding: 10px 15px;
+    border: 3px dotted rgb(169, 115, 219)
+   
 }
 img {
    height: auto;
@@ -17,6 +26,8 @@ h2 {
     color:antiquewhite;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 15px;
+    margin: 50px 40px;
 }
 
 .one, .three {
@@ -30,4 +41,6 @@ h2 {
 li, p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
+    padding:10px 30px;
+    margin: 10px;
 }
